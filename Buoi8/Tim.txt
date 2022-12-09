@@ -1,0 +1,44 @@
+1.Var const let:
+=>sự khác nhau: 
+-var:
+Phạm vi của một biến var là phạm vi Function (hàm).
+Nó có thể được cập nhật và khai báo lại.
+Nó có thể được khai báo mà không cần khởi tạo.
+Nó có thể được truy cập mà không cần khởi tạo vì giá trị mặc định của nó là "undefined"
+-let:
+Phạm vi của một biến let là phạm vi khối.
+Nó có thể được cập nhật nhưng không thể được khai báo lại.
+Nó có thể được khai báo mà không cần khởi tạo.
+Nó không thể được truy cập mà không có khởi tạo, vì nó trả về một lỗi.
+-const:
+Phạm vi của một biến const là phạm vi khối.
+Nó không thể được cập nhật hoặc khai báo lại.
+Nó không thể được khai báo mà không có khởi tạo.
+Nó không thể được truy cập mà không có khởi tạo, vì nó không thể được khai báo mà không có khởi tạo.
+2.Toán tử:
+-Toán tử số học - Arithmetic Operators: +, -, *, /, %, ++, --, ....
+-Toán tử so sánh - Comparison Operators: 
+== so sánh bằng
+=== So sánh bằng theo cả kiểu dữ liệu và giá trị
+!= So sánh không bằng theo giá trị
+!=== So sánh không bằng theo cả kiểu dữ liệu và giá trị
+>
+<
+>=
+<=
+? Toán tử ba ngôi
+-Toán tử logic - Logical Operators:
+&& Toán tử và (còn được gọi là toán tử AND)
+|| Toán tử hoặc (còn được gọi là toán tử OR)
+!  Toán tử phủ định
+- Toán tử gán - Assignment Operators:
+=,+=, -=,*=, ...
+- Toán tử ba ngôi - Conditional Operators:
+nếu điều kiện trước dấu ? trả về true thì sẽ trả về giá trị 1 còn false thì sẽ trả về giá trị 2
+3. Câu lệnh điều kiện:
+BiỂU THỨC ĐIỀU KIỆN if - else
+                     if(ĐK)
+                     { lệnh1 }
+                     else 
+                     { lệnh2 }
+Nếu điều kiện đúng thực hiện lệnh 1 và sai thì thực hiện lệnh 
