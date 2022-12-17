@@ -1,0 +1,5 @@
+1.Var
+-Sử dụng nó ở bất kì phạm vi nào. 
+-dù khai báo ở đâu biến vẫn đc đưa lên đầu scope ///(global scope_nằm trong ngoặc nhọn)
+
+??: toán tử kết hợp- xét tới biến dc xác định
